@@ -1,7 +1,7 @@
-<h>
+<h1>
   <img align="right" src="https://komarev.com/ghpvc/?username=moonkabir&color=blueviolet&style=flat-square" alt="Profile Views" />
   Hi there! I'm <a href="https://moonkabir.site" target="_blank"><b>Moon Kabir</b></a> 👋
-</h>
+</h1>
 
 ### 💻 Senior Software Engineer & Backend Architect
 
@@ -23,18 +23,22 @@ A pragmatic software engineer focused on building robust, event-driven microserv
 
 ### 🚀 Active Projects & Ventures
 
-* **[GetKiddix](https://getkiddix.com)** — Building a modern e-commerce platform specializing in baby products, apparel, and toys, integrated with wholesale supply chains.
-* **SaadTube** — A custom child-safe Flutter mobile application featuring curated YouTube video playlist management and screen-lock protection.
-* **[moonkabir.site](https://moonkabir.site)** — Personal cloud server infrastructure administered on AWS EC2 running Ubuntu and Nginx.
+- **[GetKiddix](https://getkiddix.com)** — Building a modern e-commerce platform specializing in baby products, apparel, and toys, integrated with wholesale supply chains.
+- **SaadTube** — A custom child-safe Flutter mobile application featuring curated YouTube video playlist management and screen-lock protection.
+- **[moonkabir.site](https://moonkabir.site)** — Personal cloud server infrastructure administered on AWS EC2 running Ubuntu and Nginx.
 
 ---
 
 ### 📊 GitHub Stats & Metrics
 
-### 📊 GitHub Stats & Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moonkabir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Moon's GitHub Stats" width="100%" />
+</p>
 
-![Moon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonkabir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonkabir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moonkabir&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moonkabir&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonkabir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
