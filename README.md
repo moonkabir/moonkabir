@@ -29,16 +29,12 @@ A pragmatic software engineer focused on building robust, event-driven microserv
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### ⚡ Professional Focus & Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonkabir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Moon's GitHub Stats" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonkabir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonkabir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+```json
+{
+  "architectural_style": "Domain-Driven Design & Microservices",
+  "core_stack": ["PHP", "Laravel", "MySQL", "Redis", "Docker"],
+  "infrastructure": "AWS EC2, Nginx, Ubuntu Linux",
+  "current_focus": "Building scalable e-commerce & custom media solutions"
+}
