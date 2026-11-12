@@ -31,11 +31,10 @@ A pragmatic software engineer focused on building robust, event-driven microserv
 
 ### 📊 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonkabir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Moon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonkabir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+### 📊 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonkabir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+![Moon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonkabir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moonkabir&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moonkabir&theme=tokyonight&hide_border=true)
